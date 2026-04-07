@@ -9,3 +9,6 @@
 | ----------- |-----|------|
 | Alan Percy  | 2do | Devops|
 | David Ismael| 2do | Devops|
+
+
+### Usamos el modelo GitFlow para llevar un modelo mas estructurado  
